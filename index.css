@@ -1,0 +1,154 @@
+*{
+    margin: 0px 0px;
+}
+.menu_left {
+    width: 90px;
+    height: 900px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+}
+
+.HW_iconMNL {
+    height: 33px;
+    width: 33px;
+    padding: 20px;
+}
+/* /////// */
+.css_flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.content {
+    height: 900px;
+    width: 910px;
+    
+}
+.dau_content{
+    height: 75px;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    padding: 0px 40px;
+    margin-top: -5px;
+}
+.time_content{
+    border: 1px solid rgb(222, 50, 50);
+    color: rgb(222, 50, 50);
+    border-radius: 30px;
+    height: 38px;
+    width: 90px;
+}
+.layout2_content{
+    width: 40%;
+    height: 75px;
+    padding: 0px 0px 0px 40px;
+
+}
+.layout2_1_content{
+    border: 1px solid rgb(211, 81, 81);
+    background-color: rgb(211, 81, 81);
+    color: aliceblue    ;
+    border-radius: 30px;
+    height: 32px;
+    width: 83px;
+    justify-content: center;
+}
+.layout3_content{
+    height: 460px;
+    width: 830px;
+    padding: 0px 40px;
+}
+.content_in_pic{
+    position: absolute;
+    margin: -370px 0px 0px 25px;
+    border: 1px solid gray;
+    background-color: gray;
+    height: 40px;
+    width: 160px;
+    font-size: 17px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content_2_in_pic{
+    position: absolute;
+    margin: -375px 0px 0px 710px;
+    width: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content_3_in_pic{
+    position: absolute;
+    border: 1px solid  rgb(142, 138, 138);
+    background-color: rgb(142, 138, 138);
+    height: 25px;
+    width: 105px;
+    font-size: 13px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.8;
+}
+.content_4_in_pic{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.8;
+}
+.layout4_content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 30px;
+    position: absolute;
+    margin: 220px 200px;
+}
+.end_meeting{
+    border: 1px solid red;
+    background-color: red;
+    color: white;
+    height: 29px;
+    width: 100px;
+    border-radius: 5px;
+}
+/* ////////// */
+.menu_right {
+    height: 900px;
+    width: 420px;
+    border: 1px solid violet;
+}
+.MNR_R1{
+    display: flex; 
+    justify-content: space-around; 
+    align-items: center; 
+    height: 99px;
+    margin: 0px -60px;
+}
+.MNR_R2{
+    display: flex; 
+    justify-content: space-around; 
+    align-items: center;
+    padding: 7px 0px;
+    height: 40px;
+}
+.css_padding{
+    padding: 0px 3px;
+}
+.border_add{
+    border: 1px solid rgb(233, 73, 73);
+    color: rgb(233, 73, 73);
+    height: 35px;
+    width: 70px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
